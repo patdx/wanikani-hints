@@ -13,6 +13,6 @@ I wrote it because when I go through flashcard reviews too quickly in Wanikani, 
 
 ![after](after.png)
 
-## Install
+## Installation
 
 If you have Tampermonkey installed, you can simply [click here](https://github.com/patdx/wanikani-hints/raw/master/wanikani-hints.user.js) to install it.
