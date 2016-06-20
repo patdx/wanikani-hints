@@ -30,7 +30,6 @@
         
         if (questionType == "reading"){
             //change style
-            //$("#answer-form")[0].className = "reading";
             $("#question")[0].className = "reading";
         } else if (questionType == "meaning"){
             //change style
@@ -38,7 +37,6 @@
         }
     }
 
-    //addGlobalStyle('#answer-form.meaning { margin-right: 50% }');
     addGlobalStyle('#question.meaning #answer-form { margin-right: 30% }');
     addGlobalStyle('#question.reading #answer-form { margin-left: 30% }');
     addGlobalStyle('#question.reading { background-color: #2e2e2e; }');
