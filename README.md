@@ -1,5 +1,14 @@
-# wanikani-hints
+# Wanikani Hints
+
 Help differentiate readings and meanings in Wanikani, an SRS flashcard application for learning Japanese kanji and vocabulary.
+
+## Install
+
+Wanikani Hints is published on GreasyFork.
+
+Please install from the GreasyFork page: https://greasyfork.org/en/scripts/24536-wanikani-hints
+
+## Details
 
 This is a userscript, tested in Tampermonkey v4.0.59 on Google Chrome.
 
@@ -12,7 +21,3 @@ I wrote it because when I go through flashcard reviews too quickly in Wanikani, 
 ## After
 
 ![after](after.png)
-
-## Installation
-
-If you have Tampermonkey installed, you can simply [click here](https://github.com/patdx/wanikani-hints/raw/master/wanikani-hints.user.js) to install it.
